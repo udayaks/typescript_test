@@ -20,6 +20,13 @@
   },
   "homepage": "https://github.com/udayaks/typescript_test#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.35.1",
+    "eslint": "^8.23.0",
+    "eslint-config-standard-with-typescript": "^22.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.5",
+    "eslint-plugin-promise": "^6.0.1",
+    "eslint-plugin-react": "^7.31.1",
     "typescript": "^4.8.2"
   }
 }
