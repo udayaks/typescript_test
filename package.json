@@ -1,0 +1,25 @@
+{
+  "name": "uks_test",
+  "version": "1.0.0",
+  "description": "testing typesctipts",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udayaks/typescript_test.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Udaya Krishan Shrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/udayaks/typescript_test/issues"
+  },
+  "homepage": "https://github.com/udayaks/typescript_test#readme",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
